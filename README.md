@@ -1,10 +1,5 @@
 # presentacion-
 
-- Escriban presentación sobre ustedes.
-- Suban la presentación a Git.
-- Realicen algun cambio.
-- Suban los nuevos cambios.
-- Compartan el link por discord
-- Hagan algun comentario sobre el repositorio de algun otro compañere. Al menos 2.
-
-Ya saben usar git!
+Mi nombre es Máximo Fernández, tengo 20 años. Actualmente no trabajo. Me interesa la programación y varios temas de tecnologia.
+Mi espectativa sobre la materia es que me permita entender de mejor manera el mundo de la programación.
+Aunque no hable mucho, siempre intento ser positivo y dar lo mejor de mi.
